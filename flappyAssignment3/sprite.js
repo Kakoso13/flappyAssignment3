@@ -1,4 +1,17 @@
-var 
+/*
+ *Author:     Cassio Acherman
+ *Student ID: 200267816
+ *Class:      Advanced Web Assignemnt 3 - Side Scroller (FlappyBird)
+ *Purpose:    This assignemnt has as purpose to build a Side scroller game. 
+ This game Is a simple game that you have to press the mouse in order to make the bird go through the pipes, whitout crashing.
+
+ *This is the sprite.js file. Here is where I set all the coordinations from my sprite sheet. 
+
+ *LAUNCH VERSION(1.0)
+ */
+
+
+var
 
 // Sprite vars //
 
